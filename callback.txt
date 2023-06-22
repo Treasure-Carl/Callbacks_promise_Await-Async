@@ -1,0 +1,16 @@
+Using the callback method 
+function getPost(
+    define output as an arrow function 
+    use a forEach loop  taking an  arguement (post) 
+    append your data to the defined output in a list form 
+    show result in your browser using the dom Manipulation 
+call the function 
+
+
+Here is where the callback method would be implimented
+create the function create post 
+    set the time out as an arrow function as usual 
+    push your created post to the already defined array of objects
+    introduce the call back function call 
+    set time out 
+    call your create post function and attach the new post to it, and getpost method 
